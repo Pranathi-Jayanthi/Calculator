@@ -1,5 +1,3 @@
 # Calculator
-
-
-
-![Screenshot 2023-05-31 140511](https://github.com/Pranathi-Jayanthi/Calculator/assets/113671307/dc86c582-48db-410a-9a09-1d4908e1bc38)
+Simple calculator that can perform basic mathematical operations like addition, subtraction, multiplication and division.
+![image](https://github.com/pranathi-jayanthi/Calculator/assets/113671307/e676233a-3c98-4f1a-8535-1d0397bd7e36)
